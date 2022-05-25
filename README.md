@@ -1,4 +1,4 @@
-# DevadoWee-Inventory_Mangament_gui_Java
+# DevadoWee-Vaccine_Appointment_gui_Java
 Managing Inventory with Graphical User Interface
 
 Personnel: Barack Obama , hola  
